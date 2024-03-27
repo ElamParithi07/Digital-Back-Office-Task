@@ -13,11 +13,13 @@ And Ensure you set your API_URL in the apiconfig.js file in the frontend and hos
 
 # Frontend
 >`apiconfig.js`
-> export const API_URL = 'http://192.168.23.61:8080';
+
+export const API_URL = 'http://192.168.23.61:8080';
 
 # Backend
 >`server.js`
->const server = new Hapi.Server({
+
+const server = new Hapi.Server({
   host: '127.0.0.1', //You host IP address 
   port: '8080',
   routes: {
