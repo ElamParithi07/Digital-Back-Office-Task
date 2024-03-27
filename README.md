@@ -3,7 +3,7 @@
 >`Shift Booking Application `
 
 
-# Implementation Details
+# Instructions to run the app
 
   Clone or download the provided starter repository for the Shift Booking Application.
   Navigate to the project directory and install dependencies using the command for both frontend and backend.
