@@ -9,7 +9,7 @@
   Navigate to the project directory and install dependencies using the command for both frontend and backend.
 >`npm install`
 
-And Ensure you set your API_URL in the apiconfig.js file in the frontend and host api address in the server.js file in the backend.
+And Ensure you set your API_URL in the apiconfig.js file in the frontend and host IP address in the server.js file in the backend.
 
 # Frontend
 >`apiconfig.js`
@@ -21,7 +21,7 @@ And Ensure you set your API_URL in the apiconfig.js file in the frontend and hos
   host: '127.0.0.1', //You host IP address 
   port: '8080',
   routes: {
-    cors: { origin: 'ignore' },
+    cors: { origin: '*' },
   },
 });
 
