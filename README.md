@@ -1,9 +1,7 @@
 # Digital-Back-Office-Task
 
 >`Shift Booking Application `
->
-# Introduction
-  This documentation outlines the implementation details and submission instructions for the Shift Booking Application assignment using React Native. The application utilizes a provided mock API for fetching and managing shift data.
+
 
 # Implementation Details
 
