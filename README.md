@@ -26,7 +26,7 @@ const server = new Hapi.Server({
   
   routes: {
   
-    cors: { origin: '*' },
+  cors: { origin: '*' },
     
   },
   
