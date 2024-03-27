@@ -13,7 +13,6 @@ And Ensure you set your API_URL in the apiconfig.js file in the frontend and hos
 
 # Frontend
 >`apiconfig.js`
-
 export const API_URL = 'http://192.168.23.61:8080';
 
 # Backend
