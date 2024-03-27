@@ -26,7 +26,8 @@ And Ensure you set your API_URL in the apiconfig.js file in the frontend and hos
 });
 
 Run the start command >`npx expo start`
-Use emulator or your own device or install expo go for andriod
+
+Use emulator or your own device or install expo go for andriod to run the application.
 
 
 
